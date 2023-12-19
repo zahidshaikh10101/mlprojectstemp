@@ -1,0 +1,7 @@
+Agenda:
+
+19 Dec 2023 - 
+1. Set up the github {Repo}
+ a. New environment
+ b. setup.py
+ c. requirements.txt
